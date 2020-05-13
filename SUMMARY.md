@@ -11,4 +11,6 @@
 ## 开发
 
 * [引擎的选择](kai-fa/engine.md)
+* [框架](kai-fa/kuang-jia.md)
+* [储存](kai-fa/chu-cun.md)
 
