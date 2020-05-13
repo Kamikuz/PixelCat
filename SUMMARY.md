@@ -6,6 +6,7 @@
 
 * [角色](qi-hua/role.md)
 * [物品](qi-hua/item.md)
+* [玩法](qi-hua/method.md)
 
 ## 开发
 
