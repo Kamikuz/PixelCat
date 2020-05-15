@@ -1,7 +1,7 @@
 # Table of contents
 
 * [new Project\(\);](README.md)
-* [项目状态](xiang-mu-zhuang-tai.md)
+* [项目状态](intro.md)
 * [FAQ](faq.md)
 * [关于](about.md)
 
@@ -15,11 +15,12 @@
 ## 开发
 
 * [引擎的选择](kai-fa/engine.md)
-* [框架](kai-fa/kuang-jia.md)
-* [储存](kai-fa/chu-cun.md)
+* [框架](kai-fa/framework.md)
+* [储存](kai-fa/save.md)
 
 ## 模块 & 系统
 
 * [对话系统](dialog.md)
 * [移动系统](move.md)
+* [物品系统](inventory.md)
 
