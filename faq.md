@@ -10,5 +10,7 @@
 
 我们预计8月上旬的时候在Steam平台发布Demo版本的测试来让大家体验这款游戏。同时，由于目前游戏开发将会涉及很多版权问题，我们将会与各个版权方协商好后发布价格。
 
+## 更多问题？ [点我发布！](https://github.com/Kamikuz/PixelCat/issues)
 
+问题提交将在Github的issues版块进行发布。
 
