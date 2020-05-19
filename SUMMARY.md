@@ -19,6 +19,8 @@
   * [ECS](dev/framework/ecs.md)
 * [储存](dev/save/README.md)
   * [ScriptableObject](dev/save/scriptableobject.md)
+* [一些技术浅谈](dev/yi-xie-ji-shu-qian-tan/README.md)
+  * [Singleton（单例）](dev/yi-xie-ji-shu-qian-tan/singleton-dan-li.md)
 
 ## 模块 & 系统
 
