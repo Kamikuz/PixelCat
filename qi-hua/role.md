@@ -36,7 +36,21 @@
 {% tab title="恶灵（每段剧情的Boss）" %}
         **暂定有5段剧情，与之对应的是5个恶灵，每个恶灵都有着各自生前的死因已经最终堕落为恶灵的原因。**
 {% endtab %}
+
+{% tab title="未公开" %}
+{% hint style="info" %}
+敬请期待~
+{% endhint %}
+{% endtab %}
+
+{% tab title="未公开" %}
+{% hint style="info" %}
+敬请期待~
+{% endhint %}
+{% endtab %}
 {% endtabs %}
+
+
 
 
 
